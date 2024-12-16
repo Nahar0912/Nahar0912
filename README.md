@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Nazmun Nahar</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<h3 align="center">A passionate full-Stack developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nahar0912&label=Profile%20views&color=0e75b6&style=flat" alt="nahar0912" /> </p>
 
-- 🌱 I’m currently learning **React js**
+- 🌱 I’m currently learning **Nest js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Nahar0912?tab=repositories](https://github.com/Nahar0912?tab=repositories)
 
