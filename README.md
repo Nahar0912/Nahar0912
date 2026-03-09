@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Asp.Net Core, Angular**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Nahar0912](https://github.com/Nahar0912)
+- 👨‍💻 All of my projects are available at [(https://github.com/Nahar0912?tab=repositories)](https://github.com/Nahar0912?tab=repositories)
 
 - 📫 How to reach me **anika.viki987@gmail.com**
 
